@@ -1,135 +1,111 @@
 <!-- ===========================
-     DARK / LIGHT MODE HERO IMAGE
-     =========================== -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/2bq4VDU.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/UZ3B2oR.png">
-    <img src="https://i.imgur.com/UZ3B2oR.png" width="800" />
-  </picture>
-</p>
+        HERO BANNER (ASCII)
+=========================== -->
+<h1 align="center">✨ Suraj M ✨</h1>
 
-<!-- CUSTOM TYPING SUBTITLE -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=9F2BFF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI+%2F+ML+Enthusiast;Building+Fast,+Scalable+%26+Beautiful+Apps" />
 </p>
 
-<!-- ANIMATED GRADIENT DIVIDER -->
-<img src="https://i.imgur.com/yLW8QnE.gif" width="100%" />
+<!-- TEXT-BASED GRADIENT DIVIDER -->
+<p align="center"><b>━━━━━━━━━━━━━━━━━━ 🌈 ━━━━━━━━━━━━━━━━━━</b></p>
 
 ---
 
-# 🌟 About Me  
-<div align="center" style="padding: 20px; border-radius: 20px; backdrop-filter: blur(12px); background: rgba(255,255,255,0.12);">
+# 🌟 About Me
 
-I'm a final-year **Computer Science** student and a passionate **Full-Stack Developer**.  
-I love building apps that are:
+I'm a final-year **Computer Science** student and passionate **full-stack developer**.  
+I enjoy building applications that are:
 
-🔥 Fast  
+⚡ Fast  
 🎨 Beautiful  
-⚙️ Scalable  
-🤖 AI-powered  
-
-I focus on clean, modern UI + well-engineered backend systems.
-
-</div>
+🧠 Smart (AI-powered)  
+🛠️ Scalable  
 
 ---
 
-<!-- ANIMATED GRADIENT DIVIDER -->
-<img src="https://i.imgur.com/yLW8QnE.gif" width="100%" />
-
-# ⚡ Tech Stack Icons Row  
+# ⚡ Tech Stack (Icons Row - SAFE CDN)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,ts,cpp,python,html,css,tailwind,git,github,vite,vercel,postman" />
 </p>
 
+<!-- DIVIDER -->
+<p align="center"><b>━━━━━━━━━━━━━━━━━━ 🌈 ━━━━━━━━━━━━━━━━━━</b></p>
+
 ---
 
-# 🧠 Skill Progress: What I'm Learning & Want to Learn  
+# 🧠 Skill Progress
 
 ## 🚀 Currently Learning  
-<div style="padding: 15px; border-radius: 15px; background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(8px);">
-  
-✔ Flask (Backend micro-framework)  
-✔ Improving API architecture & deployment
+✔ Flask  
 
-</div>
-
-## 🎯 Skills I Want to Learn (DevOps Track)  
-<div style="padding: 15px; border-radius: 15px; background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(8px);">
-
+## 🎯 Skills I Want To Learn (DevOps Track)  
 🔹 Docker  
 🔹 Kubernetes  
-🔹 Selenium  
 🔹 Jenkins  
-🔹 CI/CD pipelines  
-🔹 Cloud Deployments  
-🔹 Monitoring & Automation Tools  
-
-</div>
+🔹 Selenium  
+🔹 CI/CD  
+🔹 Monitoring & Cloud Deployments  
 
 ---
 
-<!-- ANIMATED GRADIENT DIVIDER -->
-<img src="https://i.imgur.com/yLW8QnE.gif" width="100%" />
-
-# 🧩 Project Showcase (Grid)
+# 🧩 Project Showcase
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🖼️ Imagify – AI Text → Image Generator</h3>
-      <p>A fast + clean AI-powered text-to-image generator using React & Node.</p>
+      <p>Fast, clean AI image generator built with React + Node.</p>
       <a href="https://imagify-ai-text-to-image-generator-woww.onrender.com/">
-        <img src="https://img.shields.io/badge/Live_Demo-9F2BFF?style=for-the-badge" />
+        <b>🔗 Live Demo</b>
       </a>
     </td>
 
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🔢 Sorting Visualizer</h3>
-      <p>An interactive visualizer for merge, quick, heap, bubble, and more sorting algorithms.</p>
+      <p>Visualizes merge, quick, heap, bubble sorting algorithms.</p>
       <a href="https://github.com/Surajmanjunatha/sorting_visualizer">
-        <img src="https://img.shields.io/badge/GitHub_Repo-00CFFD?style=for-the-badge" />
+        <b>📦 Repository</b>
       </a>
     </td>
   </tr>
 </table>
 
+<!-- DIVIDER -->
+<p align="center"><b>━━━━━━━━━━━━━━━━━━ 🌈 ━━━━━━━━━━━━━━━━━━</b></p>
+
 ---
 
-<!-- ANIMATED GRADIENT DIVIDER -->
-<img src="https://i.imgur.com/yLW8QnE.gif" width="100%" />
-
-# 📊 GitHub Stats (Dark / Light Adaptive)
+# 📊 GitHub Stats (Dark/Light Adaptive)
 
 <p align="center">
 
-  <!-- GitHub Stats -->
+  <!-- Adaptive Stats -->
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=Surajmanjunatha&show_icons=true&theme=radical" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api?username=Surajmanjunatha&show_icons=true&theme=default" media="(prefers-color-scheme: light)" />
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=Surajmanjunatha&show_icons=true" />
   </picture>
 
-  <!-- Streak Stats -->
+  <!-- Adaptive Streak -->
   <picture>
-    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=Surajmanjunatha&theme=radical" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=Surajmanjunatha&theme=default" media="(prefers-color-scheme: light)" />
-    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Surajmanjunatha" />
+    <source srcset="https://github-readme-streak-stats.herokuapp.com?user=Surajmanjunatha&theme=radical" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-streak-stats.herokuapp.com?user=Surajmanjunatha&theme=default" media="(prefers-color-scheme: light)" />
+    <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Surajmanjunatha" />
   </picture>
 
 </p>
 
 ---
 
-# 🐍 Animated Snake Contribution Graph  
+# 🐍 Snake Contribution Graph (Safe)
 
+```md
 ![snake gif](https://raw.githubusercontent.com/Surajmanjunatha/Surajmanjunatha/output/github-contribution-grid-snake.svg)
-<!-- ANIMATED GRADIENT DIVIDER --> <img src="https://i.imgur.com/yLW8QnE.gif" width="100%" />
+
 🧩 LeetCode Profile
 <p align="center"> <a href="https://leetcode.com/surajmanjunatha"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /> </a> </p>
 📬 Connect With Me
-<p> <a href="mailto:surajmanju2005@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/surajmanjunatha"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/Surajmanjunatha"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
-<p align="center"> ⭐ If you like my work, consider starring my repositories! </p> ```
+<p align="center"> <a href="mailto:surajmanju2005@gmail.com"><b>📧 Email</b></a> • <a href="https://linkedin.com/in/surajmanjunatha"><b>💼 LinkedIn</b></a> • <a href="https://github.com/Surajmanjunatha"><b>🐙 GitHub</b></a> </p>
+<p align="center"> ⭐ If you like my work, consider giving my repositories a star! </p> ```
