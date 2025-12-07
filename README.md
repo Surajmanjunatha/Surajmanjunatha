@@ -1,77 +1,97 @@
-<!-- HERO BANNER -->
+<!-- ===========================
+     DARK / LIGHT MODE HERO IMAGE
+     =========================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=9F2BFF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Suraj+👋;Full-Stack+Developer+%7C+AI+Enthusiast;Building+Fast,+Scalable+%26+Beautiful+Web+Apps" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/2bq4VDU.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/UZ3B2oR.png">
+    <img src="https://i.imgur.com/UZ3B2oR.png" width="800" />
+  </picture>
 </p>
 
-<!-- CUSTOM GRADIENT DIVIDER -->
-<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" />
+<!-- CUSTOM TYPING SUBTITLE -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=9F2BFF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI+%2F+ML+Enthusiast;Building+Fast,+Scalable+%26+Beautiful+Apps" />
+</p>
+
+<!-- ANIMATED GRADIENT DIVIDER -->
+<img src="https://i.imgur.com/yLW8QnE.gif" width="100%" />
 
 ---
 
-## 🌟 About Me
+# 🌟 About Me  
+<div align="center" style="padding: 20px; border-radius: 20px; backdrop-filter: blur(12px); background: rgba(255,255,255,0.12);">
 
-I'm a final-year Computer Science student and full-stack developer passionate about  
-**AI-powered tools, scalable backend systems, and polished UI/UX.**
+I'm a final-year **Computer Science** student and a passionate **Full-Stack Developer**.  
+I love building apps that are:
 
-I turn ideas into pixel-perfect experiences with clean code and creativity 🚀
+🔥 Fast  
+🎨 Beautiful  
+⚙️ Scalable  
+🤖 AI-powered  
 
----
+I focus on clean, modern UI + well-engineered backend systems.
 
-## ⚡ Tech Stack & Skills
-
-### 🧑‍💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white" />
-</p>
-
-### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
-
-### 🛠 Backend & Database
-<p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-### ⚙️ Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
-<!-- CUSTOM GRADIENT DIVIDER -->
-<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" />
+</div>
 
 ---
 
-# 🧩 Project Showcase Grid
+<!-- ANIMATED GRADIENT DIVIDER -->
+<img src="https://i.imgur.com/yLW8QnE.gif" width="100%" />
 
-### 🔥 Featured Projects  
+# ⚡ Tech Stack Icons Row  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,ts,cpp,python,html,css,tailwind,git,github,vite,vercel,postman" />
+</p>
+
+---
+
+# 🧠 Skill Progress: What I'm Learning & Want to Learn  
+
+## 🚀 Currently Learning  
+<div style="padding: 15px; border-radius: 15px; background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(8px);">
+  
+✔ Flask (Backend micro-framework)  
+✔ Improving API architecture & deployment
+
+</div>
+
+## 🎯 Skills I Want to Learn (DevOps Track)  
+<div style="padding: 15px; border-radius: 15px; background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(8px);">
+
+🔹 Docker  
+🔹 Kubernetes  
+🔹 Selenium  
+🔹 Jenkins  
+🔹 CI/CD pipelines  
+🔹 Cloud Deployments  
+🔹 Monitoring & Automation Tools  
+
+</div>
+
+---
+
+<!-- ANIMATED GRADIENT DIVIDER -->
+<img src="https://i.imgur.com/yLW8QnE.gif" width="100%" />
+
+# 🧩 Project Showcase (Grid)
+
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <h3>🖼️ Imagify – AI Text → Image Generator</h3>
-      <p>Generate stunning AI visuals instantly using a clean and modern UI.</p>
+      <p>A fast + clean AI-powered text-to-image generator using React & Node.</p>
       <a href="https://imagify-ai-text-to-image-generator-woww.onrender.com/">
         <img src="https://img.shields.io/badge/Live_Demo-9F2BFF?style=for-the-badge" />
       </a>
     </td>
-    <td>
-      <h3>⚡ Another Highlight Project</h3>
-      <p>Add your next biggest project here — tools, AI app, dashboard, etc.</p>
-      <a href="#">
-        <img src="https://img.shields.io/badge/View_Project-00CFFD?style=for-the-badge" />
+
+    <td width="50%">
+      <h3>🔢 Sorting Visualizer</h3>
+      <p>An interactive visualizer for merge, quick, heap, bubble, and more sorting algorithms.</p>
+      <a href="https://github.com/Surajmanjunatha/sorting_visualizer">
+        <img src="https://img.shields.io/badge/GitHub_Repo-00CFFD?style=for-the-badge" />
       </a>
     </td>
   </tr>
@@ -79,59 +99,37 @@ I turn ideas into pixel-perfect experiences with clean code and creativity 🚀
 
 ---
 
-<!-- CUSTOM GRADIENT DIVIDER -->
-<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" />
+<!-- ANIMATED GRADIENT DIVIDER -->
+<img src="https://i.imgur.com/yLW8QnE.gif" width="100%" />
 
-# 📊 GitHub Analytics
-
-## 🎉 GitStats Banner
-<p align="center">
-  <img src="https://stats.justsong.cn/api/github?username=Surajmanjunatha" />
-</p>
-
-## 🌀 Dark / Light Mode Adaptive Stats
+# 📊 GitHub Stats (Dark / Light Adaptive)
 
 <p align="center">
+
+  <!-- GitHub Stats -->
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=Surajmanjunatha&show_icons=true&theme=radical" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api?username=Surajmanjunatha&show_icons=true&theme=default" media="(prefers-color-scheme: light)" />
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=Surajmanjunatha&show_icons=true" />
   </picture>
 
+  <!-- Streak Stats -->
   <picture>
     <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=Surajmanjunatha&theme=radical" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=Surajmanjunatha&theme=default" media="(prefers-color-scheme: light)" />
     <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Surajmanjunatha" />
   </picture>
-</p>
 
-## 🧊 3D Contribution Graph  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Surajmanjunatha/Surajmanjunatha/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
 
 ---
 
-<!-- CUSTOM GRADIENT DIVIDER -->
-<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" />
+# 🐍 Animated Snake Contribution Graph  
 
-# 📬 Connect With Me  
-<p>
-  <a href="mailto:surajmanju2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://linkedin.com/in/surajmanjunatha">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/Surajmanjunatha">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  ⭐ If you like my work, consider giving my repositories a star!
-</p>
+![snake gif](https://raw.githubusercontent.com/Surajmanjunatha/Surajmanjunatha/output/github-contribution-grid-snake.svg)
+<!-- ANIMATED GRADIENT DIVIDER --> <img src="https://i.imgur.com/yLW8QnE.gif" width="100%" />
+🧩 LeetCode Profile
+<p align="center"> <a href="https://leetcode.com/surajmanjunatha"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /> </a> </p>
+📬 Connect With Me
+<p> <a href="mailto:surajmanju2005@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/surajmanjunatha"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/Surajmanjunatha"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+<p align="center"> ⭐ If you like my work, consider starring my repositories! </p> ```
