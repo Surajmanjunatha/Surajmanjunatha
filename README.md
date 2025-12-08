@@ -28,7 +28,7 @@ I focus on clean code, great UX, and real-world problem solving.
 <p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" /> </p>
 <p align="center"><b>━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━</b></p>
 🧩 Featured Projects (Grid)
-<table> <tr> <td width="50%" valign="top"> <h3>🖼️ Imagify – AI Text → Image Generator</h3> <p>Modern AI image generator built with React, Vite, Node & Express.</p> <b>🔗 Live:</b> https://imagify-ai-text-to-image-generator-woww.onrender.com/ <br> <b>📦 Repo:</b> *(Add your repo link if public)* </td>
+<table> <tr> <td width="50%" valign="top"> <h3>🖼️ Imagify – AI Text → Image Generator</h3> <p>Modern AI image generator built with React, Vite, Node & Express.</p> <b>🔗 Live:</b> https://imagify-ai-text-to-image-generator-woww.onrender.com/ <br> <b>📦 Repo:</b> https://github.com/Surajmanjunatha/Imagify-AI-Text-to-Image-Generator</td>
 <td width="50%" valign="top">
   <h3>🔢 Sorting Visualizer</h3>
   <p>Interactive visualizer supporting Merge, Quick, Bubble, Heap & more algorithms.</p>
